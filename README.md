@@ -1,1 +1,1 @@
-# student-managment
+# simple student data management 
